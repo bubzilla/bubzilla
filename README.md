@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning why that indian guy in the tutorial's code is working for him and not me
 - 🌱 I’m currently learning how to code C
 - 📫 If you want to reach me you can't.
+- ඞ Sussy Amogus
 
 <!---
 bubzilla/bubzilla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
